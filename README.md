@@ -1,6 +1,13 @@
 # ProyectoIA
 
 
+![image](https://github.com/miguel0277/ProyectoIA/assets/77182773/7442756b-7758-495b-ac2a-449df88a3eea)
+
+
+
+
+
+
 Para cargar el proyecto debe ser desde Colaboratory Google
 
 https://drive.google.com/file/d/1BJc5btJKtCeJWH2pvYNWZo0sE4mg-Xxp/view?usp=drive_link
