@@ -7,6 +7,14 @@
 
 
 
+ miembros:
+
+Jhon Danilo Rincón Maldonado
+Miguel Fernando Pardo Maldonado
+Andres Joan Pardo Alquichire
+
+
+
 
 Para cargar el proyecto debe ser desde Colaboratory Google
 
